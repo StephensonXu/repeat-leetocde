@@ -1,6 +1,6 @@
 package one;
 
-public class LinkedList {
+public class linkedList {
 	public class ListNode {
 		 int val;
 		 ListNode next;
